@@ -1,1 +1,1 @@
-# odin-recipe
+# My Nigerian recipes website
